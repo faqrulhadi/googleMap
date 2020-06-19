@@ -1,0 +1,867 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CrQCIQEAAAbm9tQCdxuhpmUbiAiW8Qus-alryEKmMGFM-Q5ZlW8D41x32-KTM5nzT1yyj82LjYv2_A5Q5I67tD3G1nvcd36SRb933P9R-YjKIQc0Pw-mjf4xaxdLHUvrBl-YS6RnPPBmYnxrzGGsgqPgXnrw71NVKtlpQVAhlhw_zGF7HvW2r0ylJfqzUyb3CBUI4vV0b40BRFqPF0duEudr9Ndi3yqKGP2a2Qkmk-wRe54cHvTMJbRmhCYgiH2BIiTLFuR64utosZizVkSDeT4nwP8BYTGvei3kmDh9TEL-oihZWWldY0DTeoVzYd5elczOgojfcUzVWT9LyJT707rCFLCk350IZAiEoEtpIJO8gjiY7-XDk9usEbUQ3kLN0UlC1LKvvoNRm-Id6A_qcBfXDLEkV84SEE62eqLEicIB9Ds0xwyr9KoaFFRmzVwUrakDLIkajLdUdYm0U5dQ",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.0837579,
+               "lng" : 101.5259701
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.085081030291502,
+                  "lng" : 101.5272986302915
+               },
+               "southwest" : {
+                  "lat" : 3.082383069708498,
+                  "lng" : 101.5246006697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "0fb71743bdefa4d5fc35a5471e4940b1cf87cddf",
+         "name" : "Restoran Ani Sup Utara",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2592,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111083148288593806930\"\u003eNuar92016 Nuar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAhDJrYkRL8PAue7aC6W0eh521rxLAndoBBAfcXoK3JM2y-EB_wqvr0EsNH8QxVbajS1KVd47V9oaplZaseZ2NRiVoqUNtTHqIB10es8SPT-fUF3Q46vhG1iBTRlh7LIY3EhBxj9l_L7Xigx9TSVGskeBlGhRg1lk6PGHP3X66okyzJfw4t4Qpuw",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJ227A3IdNzDERleUeWg-n3TY",
+         "plus_code" : {
+            "compound_code" : "3GMG+G9 Shah Alam, Selangor, Malaysia",
+            "global_code" : "6PM33GMG+G9"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJ227A3IdNzDERleUeWg-n3TY",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 169,
+         "vicinity" : "No. 31 Block A, Jalan Tengku Ampuan Zabedah J 9/J, Seksyen 9, Shah Alam"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.084161100000001,
+               "lng" : 101.5257037
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.085483230291502,
+                  "lng" : 101.5270691802915
+               },
+               "southwest" : {
+                  "lat" : 3.082785269708498,
+                  "lng" : 101.5243712197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "9e66574fd39ea167a4db96a8de823f3f0c777598",
+         "name" : "Segamat Rel Cafe",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117834113242791178192\"\u003eLily Suzana\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAArJBE9w97uOIt6cx9m4njIDzDmSx4TN2Wm_qcsZJX2bxN2qeVfDAqPnM0t4C7JR8iqjS-dMGR8O-f4_Dbhf3kn43DxNhboPZLjjr4hTvqIhmpqBE1H0xdYTxrn-zEFfBKEhCrKXk1wNfqaWb_oN-vCQTYGhRWeW07xui6kBSGICnJwNYBIfC6WQ",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJZ7iYXehNzDERExLEM_kWjxc",
+         "plus_code" : {
+            "compound_code" : "3GMG+M7 Shah Alam, Selangor, Malaysia",
+            "global_code" : "6PM33GMG+M7"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJZ7iYXehNzDERExLEM_kWjxc",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 9,
+         "vicinity" : "24-32, Jalan Tengku Ampuan Zabedah K 9/K, Seksyen 9, Shah Alam"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.0841655,
+               "lng" : 101.5259382
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.085559780291502,
+                  "lng" : 101.5272644802915
+               },
+               "southwest" : {
+                  "lat" : 3.082861819708498,
+                  "lng" : 101.5245665197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "98a1dd1dcee7f86068dce7be2e143d9e4c73425c",
+         "name" : "Restoran Selera Kampung",
+         "photos" : [
+            {
+               "height" : 2976,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112429375349679050254\"\u003eKhairul Anuar Shaharudin\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAKIzXk94CaXkvWnNRuvu673f-kqMOJ8DX7VJer-20N1IdG9FheqXF3yES8J58Mud2OGmRNLgbDVMh8QSucks-i_kLmL1bPGDzDpxvcCHF4lGMjEX2rYc8T4TYEAGnX4ssEhD8slXkJQd_5Bi2KN4xHvETGhT-MjIQbjZEea9fycdyebqvecZWCw",
+               "width" : 3968
+            }
+         ],
+         "place_id" : "ChIJh44dfaVNzDERc3EthJvq20Q",
+         "plus_code" : {
+            "compound_code" : "3GMG+M9 Shah Alam, Selangor, Malaysia",
+            "global_code" : "6PM33GMG+M9"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJh44dfaVNzDERc3EthJvq20Q",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 29,
+         "vicinity" : "26-32, Jalan Tengku Ampuan Zabedah K 9/K, Seksyen 9, Shah Alam"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.0842145,
+               "lng" : 101.5258796
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.085563330291502,
+                  "lng" : 101.5272286802915
+               },
+               "southwest" : {
+                  "lat" : 3.082865369708498,
+                  "lng" : 101.5245307197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "43c598361c4c9922755e3b357c294af9ba91dec6",
+         "name" : "Restoran Kampong Seksyen9",
+         "place_id" : "ChIJL11W4YdNzDERUvSQKX0jLkA",
+         "plus_code" : {
+            "compound_code" : "3GMG+M9 Shah Alam, Selangor, Malaysia",
+            "global_code" : "6PM33GMG+M9"
+         },
+         "rating" : 3,
+         "reference" : "ChIJL11W4YdNzDERUvSQKX0jLkA",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3,
+         "vicinity" : "26, Jalan Tengku Ampuan Zabedah K 9/K, Seksyen 9, Shah Alam"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.0842139,
+               "lng" : 101.5258964
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.085569930291502,
+                  "lng" : 101.5272418802915
+               },
+               "southwest" : {
+                  "lat" : 3.082871969708498,
+                  "lng" : 101.5245439197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "a1c803deba04aeb12884cbfe65f71952595ac49a",
+         "name" : "Restoran Selera Kampung (FAM MAJU)",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111592615575844917367\"\u003eMohamad Asrol\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA-Qco2XcBijJyDTmI8u5EjAHopZ79XPY3AcgdaJlDXMuQ91vmBkVd9CO6ECD4ioMk-8i1fW5tLE7ik3softhr2MEm8dRG28eEPWzm--j5K-B_VWAfR0uEbeUOL9sBTlMhEhD_BRpnl-Z0dJ10AkFc9Av-GhSSyKX15QvBGk6etlWDYVPDiQm1tA",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJhTiL5ZVNzDERZMeOtQpgVOM",
+         "plus_code" : {
+            "compound_code" : "3GMG+M9 Shah Alam, Selangor, Malaysia",
+            "global_code" : "6PM33GMG+M9"
+         },
+         "rating" : 5,
+         "reference" : "ChIJhTiL5ZVNzDERZMeOtQpgVOM",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "26, Jalan Tengku Ampuan Zabedah K 9/K, Seksyen 9, Shah Alam"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.0842829,
+               "lng" : 101.5259336
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.085601730291502,
+                  "lng" : 101.5272986302915
+               },
+               "southwest" : {
+                  "lat" : 3.082903769708498,
+                  "lng" : 101.5246006697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "1382cedd9a0bf79de4f94063b22fd4a7bc32e1fc",
+         "name" : "MAT ROCK SPECIAL AYAM GORENG KUNYIT SHAH ALAM",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117521116007192012515\"\u003eMuhammad Zubair\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAB4l0bp8tjm43SDhOI1GWbdrsRCKuuxBl9gXIbWKZGrFzjZr8bZ4OM0KGjqqYgI2y4_NKgx2qAz43IW9vzzkabyUeMoO-TFqRz_LMTL4d4O-l9DzuHQTv_dDQX1k6kDIuEhBXU4u6RoT05QVK4-JYePcVGhRlogVplMjtQt-X28hWzIzD6aXWyQ",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJg7WBPRxNzDER7zWuHmS8rIU",
+         "plus_code" : {
+            "compound_code" : "3GMG+P9 Shah Alam, Selangor, Malaysia",
+            "global_code" : "6PM33GMG+P9"
+         },
+         "reference" : "ChIJg7WBPRxNzDER7zWuHmS8rIU",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "24b, Jalan Tengku Ampuan Zabedah K 9/K, Seksyen 9, Shah Alam"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.0841463,
+               "lng" : 101.5249827
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.085553830291502,
+                  "lng" : 101.5263545302915
+               },
+               "southwest" : {
+                  "lat" : 3.082855869708498,
+                  "lng" : 101.5236565697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "2f12805c87e9527b694dc3c1d49c627666a64dc0",
+         "name" : "RakuXin Restaurant",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2976,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112429375349679050254\"\u003eKhairul Anuar Shaharudin\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAk3BfA9mygRxBn0mYkZFJdIJ3GYuZc25ezH3pHPFcvAdNQxHxxqTALi-TjlExzp0Jwn51IVfRs9pi3aRMJdkBE3_Uz7TC-mM9pgqyUREc2a11OrDDdDvvT9eMMddcVNBEEhDgBhTNBXmLZWAP5NNg5tC6GhRnhxY_dfpJED-O1GDcdt4uoPcjuw",
+               "width" : 3968
+            }
+         ],
+         "place_id" : "ChIJVVVVBnhSzDERd7rTc2v57Es",
+         "plus_code" : {
+            "compound_code" : "3GMF+MX Shah Alam, Selangor, Malaysia",
+            "global_code" : "6PM33GMF+MX"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJVVVVBnhSzDERd7rTc2v57Es",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 19,
+         "vicinity" : "3, Jalan Tengku Ampuan Zabedah C9/C, Seksyen 9, Shah Alam"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.0841501,
+               "lng" : 101.5262225
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.085608280291502,
+                  "lng" : 101.5275132802915
+               },
+               "southwest" : {
+                  "lat" : 3.082910319708498,
+                  "lng" : 101.5248153197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "6104d884dd40eac975060f706a545d961bf03d37",
+         "name" : "Dapur Darling",
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108427481463942382295\"\u003eAqeelah Rashidi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAASpFcUGiRMaUWsfJzq51JJyRlRmLqiPERC-WqBFGEfCh-wx_rNSHyeRE3AO-0_djKNY9Z9qBvP6MJWRXLhj8RWTuZuGK0uvXoiro3uxXtkxJUcejae_uLcLj00e4PvSu8EhBz8LKByTl2JlQFfoqHov5UGhScL6U4jbQBfAomzV2ZbarM_5urzw",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJsbHXwqBNzDEReOCKzg2YG2A",
+         "plus_code" : {
+            "compound_code" : "3GMG+MF Shah Alam, Selangor, Malaysia",
+            "global_code" : "6PM33GMG+MF"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJsbHXwqBNzDEReOCKzg2YG2A",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 8,
+         "vicinity" : "16, Jalan Tengku Ampuan Zabedah K 9/K, Seksyen 9, Shah Alam"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.0841501,
+               "lng" : 101.5262225
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.085608280291502,
+                  "lng" : 101.5275132802915
+               },
+               "southwest" : {
+                  "lat" : 3.082910319708498,
+                  "lng" : 101.5248153197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "e4e254f894db04f9dc63401d44f5fef60001aea7",
+         "name" : "Restoran Rumah Mak",
+         "place_id" : "ChIJJSst4IdNzDER0YALqOb0Ggc",
+         "plus_code" : {
+            "compound_code" : "3GMG+MF Shah Alam, Selangor, Malaysia",
+            "global_code" : "6PM33GMG+MF"
+         },
+         "reference" : "ChIJJSst4IdNzDER0YALqOb0Ggc",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "16, Jalan Tengku Ampuan Zabedah K 9/K, Seksyen 9, Shah Alam"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.0839393,
+               "lng" : 101.5265683
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.085240530291502,
+                  "lng" : 101.5279434302915
+               },
+               "southwest" : {
+                  "lat" : 3.082542569708499,
+                  "lng" : 101.5252454697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "983e9df97c5dd6a79a101c407cb1309c157d2ea8",
+         "name" : "SO DIM SUM",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112912549015143517606\"\u003eSO DIM SUM\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA7aD4V1i8ZX4Z_ahfI5sVvhLQuaYDL558bif6wAHUGN0LOQw9rjTn0WtJ6MAr6N_riAu95eg_v61h5NaelavH5WE1G956AFDnRLYHVbXDSjX_Kl7Z82o_JxAMSxUTaImoEhCbjQtBaiV8RTPMy6iOB7DyGhQK1k-Scol_CeQlHfTcDvGR-29LUg",
+               "width" : 1279
+            }
+         ],
+         "place_id" : "ChIJ8az0vGJNzDER6GVOGIKAd9E",
+         "plus_code" : {
+            "compound_code" : "3GMG+HJ Shah Alam, Selangor, Malaysia",
+            "global_code" : "6PM33GMG+HJ"
+         },
+         "price_level" : 2,
+         "rating" : 4.5,
+         "reference" : "ChIJ8az0vGJNzDER6GVOGIKAd9E",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 85,
+         "vicinity" : "13, Jalan Tengku Ampuan Zabedah J 9/J, Seksyen 9, Shah Alam"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.083892000000001,
+               "lng" : 101.5246058
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.085211180291502,
+                  "lng" : 101.5259028802915
+               },
+               "southwest" : {
+                  "lat" : 3.082513219708498,
+                  "lng" : 101.5232049197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "b549c193ba3c483068ee7de4cd96c31d46e4e228",
+         "name" : "Xin Cuisine Restaurant",
+         "place_id" : "ChIJT_WBCHhSzDEReXb3B_kSdUo",
+         "plus_code" : {
+            "compound_code" : "3GMF+HR Shah Alam, Selangor, Malaysia",
+            "global_code" : "6PM33GMF+HR"
+         },
+         "reference" : "ChIJT_WBCHhSzDEReXb3B_kSdUo",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "vicinity" : "3, Jalan Tengku Ampuan Zabedah C9/C, Seksyen 9, Shah Alam"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.083892000000001,
+               "lng" : 101.5246058
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.085211180291502,
+                  "lng" : 101.5259028802915
+               },
+               "southwest" : {
+                  "lat" : 3.082513219708498,
+                  "lng" : 101.5232049197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "348605c8a3411332208ba303a95db62430e583a3",
+         "name" : "Melting Pot Cafe, Concorde Hotel",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2268,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114247063301992258883\"\u003eJeffrey Loo\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA0mFSENx3WdXH1W6b_3ELqrWdJmJkshVORrMwEP-o2IgIcQgOw2tDoytUN9lxDbS9sVrJCDUF-d0k9PyBf3sxL5BQ7dQ_ZaQqYn-8Dd76_hnqH7esm2b_yw5O21sA4SH8EhAY4YPFn89omv1neIBi5cHCGhQyyqUjRYFK7Kmf4yLfHADSzeIoXQ",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJT_WBCHhSzDERYUEdWykyPgA",
+         "plus_code" : {
+            "compound_code" : "3GMF+HR Shah Alam, Selangor, Malaysia",
+            "global_code" : "6PM33GMF+HR"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJT_WBCHhSzDERYUEdWykyPgA",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 170,
+         "vicinity" : "3, Jalan Tengku Ampuan Zabedah C9/C, Seksyen 9, Shah Alam"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.083892000000001,
+               "lng" : 101.5246058
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.085211180291502,
+                  "lng" : 101.5259028802915
+               },
+               "southwest" : {
+                  "lat" : 3.082513219708498,
+                  "lng" : 101.5232049197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "bc4b55d4444c357037f03c4bc8c5b56df433fcfa",
+         "name" : "The Artists' Space",
+         "place_id" : "ChIJlY04BnhSzDERNY52cCgD9cQ",
+         "plus_code" : {
+            "compound_code" : "3GMF+HR Shah Alam, Selangor, Malaysia",
+            "global_code" : "6PM33GMF+HR"
+         },
+         "rating" : 4,
+         "reference" : "ChIJlY04BnhSzDERNY52cCgD9cQ",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "3, Jalan Tengku Ampuan Zabedah C9/C, Seksyen 9, Shah Alam"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.0837076,
+               "lng" : 101.5267505
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.085136330291502,
+                  "lng" : 101.5280558802915
+               },
+               "southwest" : {
+                  "lat" : 3.082438369708498,
+                  "lng" : 101.5253579197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "6f9b8657ea0265b583a3453e035a2fb66e3d6d2d",
+         "name" : "Cafe dos",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115650195075882104980\"\u003eAhmad Fauzan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAginWgYuMhOnJHHfHalN2o8IigHoShaUdtKuW5rP8WvgtfokJk1nSNDxnN2cY6E3GP6iyvxePNm1VoKbCNOoczEmOlPxkHVGuMBBS10QR7VjFPIDXKTohg4w9cIae5AXDEhCBZJrEplkaHVbxR0tMLkK4GhTrGbz_Lii3bsLs4cn3Cx70i-DwHg",
+               "width" : 3000
+            }
+         ],
+         "place_id" : "ChIJQdornSBNzDERzaawWN7VZn8",
+         "plus_code" : {
+            "compound_code" : "3GMG+FP Shah Alam, Selangor, Malaysia",
+            "global_code" : "6PM33GMG+FP"
+         },
+         "rating" : 4,
+         "reference" : "ChIJQdornSBNzDERzaawWN7VZn8",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2,
+         "vicinity" : "No.12, Jalan Tengku Ampuan Zabedah J 9/J, Seksyen 9, Shah Alam"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.083707,
+               "lng" : 101.526751
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.085136030291502,
+                  "lng" : 101.5280561302915
+               },
+               "southwest" : {
+                  "lat" : 3.082438069708498,
+                  "lng" : 101.5253581697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "16986b69b00d2069b36879e4fa4fa4f5de86ca52",
+         "name" : "Lads & Lassies (Shah Alam)",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104203020108965530526\"\u003eLads &amp; Lassies (Shah Alam)\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAwlGA5Q1mwDfXKfoXPMgZjjAeYA79tJD4RKxSKiaAAIelEe9yv5sbiIrfY2MpzVkwRh5IThApHhWFxa4bA6t-y_slkdqaDQ97lGS9ZLrKEc6sCgup_Esqu4v6oRm48SIbEhCLZQGfvpQdR9os4U3_F_8dGhTk4wWFFBJhnmo-RSCHwtNy6FOSJg",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJ0-9UxIdNzDERI3_6pTSDC1E",
+         "plus_code" : {
+            "compound_code" : "3GMG+FP Shah Alam, Selangor, Malaysia",
+            "global_code" : "6PM33GMG+FP"
+         },
+         "price_level" : 2,
+         "rating" : 3.9,
+         "reference" : "ChIJ0-9UxIdNzDERI3_6pTSDC1E",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 133,
+         "vicinity" : "12, Jalan Tengku Ampuan Zabedah J 9/J, Seksyen 9, Shah Alam"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.0837071,
+               "lng" : 101.526751
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.085136080291502,
+                  "lng" : 101.5280561302915
+               },
+               "southwest" : {
+                  "lat" : 3.082438119708498,
+                  "lng" : 101.5253581697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "2cd0fbdb06122975644ab21aaa895349470bd176",
+         "name" : "Dos Cafe",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114618136256399549016\"\u003eDos Cafe\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAANPfpYQCPl_hDbe3DKloW-Ir09cuZ14dW6iW3hVEyvO_o3xqxPIuW_cBRkrYrPBgV6fYFQwUrMttLQZT_sBp1rHT2p_A9wiXk555zmU7rsF3ULImwrfn4hiEs_dR1d5s_EhBqFVqkcB72l4eUMISbis-4GhT97YP_qT9dP8fa1bLXKF09K3sMZA",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJl5OLVp9NzDERSJ3U85eY9yQ",
+         "plus_code" : {
+            "compound_code" : "3GMG+FP Shah Alam, Selangor, Malaysia",
+            "global_code" : "6PM33GMG+FP"
+         },
+         "rating" : 5,
+         "reference" : "ChIJl5OLVp9NzDERSJ3U85eY9yQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "restaurant",
+            "cafe",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 1,
+         "vicinity" : "12, Jalan Tengku Ampuan Zabedah J 9/J, Seksyen 9, Shah Alam"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.0846364,
+               "lng" : 101.5258012
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.085817830291502,
+                  "lng" : 101.5272394802915
+               },
+               "southwest" : {
+                  "lat" : 3.083119869708498,
+                  "lng" : 101.5245415197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "d5c2be17b148d9467316e8f320be25632e765c9c",
+         "name" : "Tapak Urban Street Dining Seksyen 9 Shah Alam",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105667499740906136303\"\u003eLe Cuong\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAMFpr48UA7dgiPTV8bE3d2NlUsk0cefvf3qwiHIIUOCeHrIDvPtNcLogy-mPbL4-V6ZrYJ6i0QpK3C89H8tbfdUxzJ1eO-Uj7dCzUTNfbFoh3wRD9SW778KY33U4FV975EhDxZUXL_DaU0VJsSUsyL6sQGhT_hMyJqFj_JQ8RjLzxht8RqkKX6A",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJTZ500ktNzDERm1lpRBqGXdo",
+         "plus_code" : {
+            "compound_code" : "3GMG+V8 Shah Alam, Selangor, Malaysia",
+            "global_code" : "6PM33GMG+V8"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJTZ500ktNzDERm1lpRBqGXdo",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 25,
+         "vicinity" : "24b, Jalan Tengku Ampuan Zabedah K 9/K, Seksyen 9, Shah Alam"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.084676899999999,
+               "lng" : 101.5256094
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.085800980291502,
+                  "lng" : 101.5270709802915
+               },
+               "southwest" : {
+                  "lat" : 3.083103019708498,
+                  "lng" : 101.5243730197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "a90da4d641cd1934cb7b9cf08bf7b7ad92385d4e",
+         "name" : "TAPAK",
+         "photos" : [
+            {
+               "height" : 5472,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108438605804750137863\"\u003eL MY\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAACdjhoEmnQv4QiSofZqd67BPXfpJfFe9yMFOM5HAEKMHsG_mE6swqCZK1wge0MuC4qn14kkH-7NptRUYCFDVs3ry0Zl9eVI6y0TMK1akIHOlnBlZac88TKer4mzEj-f-5EhB0AGPbv_a5uCvWyZX2hZEiGhRgoZ59qffNUTlI3v4Y7Jm1vTjdWQ",
+               "width" : 7296
+            }
+         ],
+         "place_id" : "ChIJkd3dW7NNzDERJuE1cWs4R-c",
+         "plus_code" : {
+            "compound_code" : "3GMG+V6 Shah Alam, Selangor, Malaysia",
+            "global_code" : "6PM33GMG+V6"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJkd3dW7NNzDERJuE1cWs4R-c",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 7,
+         "vicinity" : "24b, Jalan Tengku Ampuan Zabedah K 9/K, Seksyen 9, Shah Alam"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.0848256,
+               "lng" : 101.5258014
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.086293430291501,
+                  "lng" : 101.5271876802915
+               },
+               "southwest" : {
+                  "lat" : 3.083595469708498,
+                  "lng" : 101.5244897197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "4c1dcd01883d435b42a04948e8c655bb5c07162f",
+         "name" : "Roti John hemlett",
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102560507958152704876\"\u003ehusain mahayudin\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAeUOulZw6eNcUOXqb88QKA2Gmw16avOjKYmpZg_Pk1SMzTjbWyPUYCY4WSjDybChy6Mq3zBJTu4xaV3RXDjspovMWZW1Cfi-ULk4p1TwFEyF3z6qRi7B9zt8OQAoieQ9tEhB0gL37Zx7vxfHlg3dfwA1aGhSCuFt-tuLlwqMEa-cJ3FWggW6Z8Q",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJTeSzbB9NzDERPK__Nyy8Ru8",
+         "plus_code" : {
+            "compound_code" : "3GMG+W8 Shah Alam, Selangor, Malaysia",
+            "global_code" : "6PM33GMG+W8"
+         },
+         "rating" : 1,
+         "reference" : "ChIJTeSzbB9NzDERPK__Nyy8Ru8",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1,
+         "vicinity" : "32, Jalan Raja Abdullah Lima 9/19e, Seksyen 9, Shah Alam"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 3.0846448,
+               "lng" : 101.5263346
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.085933430291502,
+                  "lng" : 101.5277157302915
+               },
+               "southwest" : {
+                  "lat" : 3.083235469708498,
+                  "lng" : 101.5250177697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "id" : "01d90307d62946cdc86a2e38d69896b214fd9a5c",
+         "name" : "Rojak Karim & Cendol",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104084103128445142886\"\u003esha insta\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAXbXKvMDMh_9JLiBSGdf9_yduwQ31Gvcu9XBwDaZDnJde9uaj4FEYpbdokBPCYv_Gve1xxu5gUP4WJ-VDN6iVxdnUUvBw0v_sOjLHtiKZySkiLsQ3eXj7t1UCKz5z35TUEhCsXxlphOoPu78ETR39zHE3GhS_yEwL0W0tuE3r9j9xplG72DPD5A",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJqwQedYhNzDERxXkg1Z4MjRQ",
+         "plus_code" : {
+            "compound_code" : "3GMG+VG Shah Alam, Selangor, Malaysia",
+            "global_code" : "6PM33GMG+VG"
+         },
+         "price_level" : 1,
+         "rating" : 4.2,
+         "reference" : "ChIJqwQedYhNzDERxXkg1Z4MjRQ",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 185,
+         "vicinity" : "18, Jalan Tengku Ampuan Zabedah K 9/K, Seksyen 9, Shah Alam"
+      }
+   ],
+   "status" : "OK"
+}
